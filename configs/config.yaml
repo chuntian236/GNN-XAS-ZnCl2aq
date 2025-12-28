@@ -1,0 +1,14 @@
+gnn:
+  nblocks: 3
+  cutoff: 4.0
+  threebody_cutoff: 4.0
+
+head: 
+  hidden_dims: [128, 128]
+  output_size: 200
+  drop_rate: 0.25 
+  
+training:
+  batch_size: 32
+  lr: 0.001
+  epochs: 1000
