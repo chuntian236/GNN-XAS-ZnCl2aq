@@ -4,9 +4,13 @@ __pycache__/
 **/__pycache__/
 *.py[cod]
 tmp/
-data-prediction/
 figures/
 lightning_logs/
 */slurm*out
 */job-train
 job-scripts/
+data/data-IG/
+data/data-PDOS/
+generate-data-for-figures.ipynb
+data/data-prediction/
+
