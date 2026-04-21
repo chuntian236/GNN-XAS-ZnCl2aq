@@ -2,7 +2,7 @@
 Chuntian Cao et al., Deciphering the Solvation Structure of Aqueous ZnCl₂ Solutions from X-ray Absorption Spectra using Interpretable Graph Neural Network, The Journal of Physical Chemistry B, 2026 (in press).
 
 ## Dataset 
-Zenodo: 10.5281/zenodo.19684914
+Zenodo: 10.5281/zenodo.19684914. URL: https://doi.org/10.5281/zenodo.19684914
 
 ## Environment Setup and Installation
 
