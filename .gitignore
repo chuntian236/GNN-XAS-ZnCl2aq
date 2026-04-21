@@ -11,5 +11,7 @@ lightning_logs/
 job-scripts/
 data/data-IG/
 data/data-PDOS/
-generate-data-for-figures.ipynb
-
+data/data-spfcn/
+data/data-traj/
+# generate-data-for-figures.ipynb
+shakeup_correct.ipynb
