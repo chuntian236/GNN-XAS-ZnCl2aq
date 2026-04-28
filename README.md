@@ -3,7 +3,7 @@ Chuntian Cao et al., Deciphering the Solvation Structure of Aqueous ZnCl₂ Solu
 https://doi.org/10.1021/acs.jpcb.6c00464
 
 ## Dataset 
-Zenodo: doi.org/10.5281/zenodo.19684914
+Zenodo: doi.org/10.5281/zenodo.19684914 
 
 ## Environment Setup and Installation
 
